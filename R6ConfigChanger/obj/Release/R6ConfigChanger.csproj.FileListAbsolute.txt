@@ -1,0 +1,12 @@
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\bin\Release\R6ConfigChanger.exe.config
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\bin\Release\R6ConfigChanger.exe
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\bin\Release\R6ConfigChanger.pdb
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\bin\Release\Ini.Net.dll
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.csprojAssemblyReference.cache
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.ChangeUIDname.resources
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.MainForm.resources
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.csproj.GenerateResource.cache
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.csproj.CoreCompileInputs.cache
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.csproj.CopyComplete
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.exe
+D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Release\R6ConfigChanger.pdb
