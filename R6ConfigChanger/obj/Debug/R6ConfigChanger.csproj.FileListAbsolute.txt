@@ -109,3 +109,15 @@ D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6Config
 D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.csproj.CopyComplete
 D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\bin\Debug\Ini.Net.dll
 D:\Moritz2000\Documents\Repos\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.ChangeUIDname.resources
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\bin\Debug\R6ConfigChanger.exe.config
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\bin\Debug\R6ConfigChanger.exe
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\bin\Debug\R6ConfigChanger.pdb
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\bin\Debug\Ini.Net.dll
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.csprojAssemblyReference.cache
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.ChangeUIDname.resources
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.MainForm.resources
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.csproj.GenerateResource.cache
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.csproj.CoreCompileInputs.cache
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.csproj.CopyComplete
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.exe
+C:\Users\Moritz Friedewald\Documents\GitHub\R6ConfigChanger\R6ConfigChanger\obj\Debug\R6ConfigChanger.pdb

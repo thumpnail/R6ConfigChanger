@@ -58,19 +58,7 @@
             // SelectDatacentre
             // 
             this.SelectDatacentre.FormattingEnabled = true;
-            this.SelectDatacentre.Items.AddRange(new object[] {
-            "default",
-            "eus",
-            "cus",
-            "scus",
-            "wus",
-            "sbr",
-            "neu",
-            "weu",
-            "eas",
-            "seas",
-            "eau",
-            "wja"});
+            this.SelectDatacentre.Items.AddRange(new object[] {"default", "eus", "cus", "scus", "wus", "sbr", "neu", "weu", "eas", "seas", "eau", "wja"});
             this.SelectDatacentre.Location = new System.Drawing.Point(86, 90);
             this.SelectDatacentre.Name = "SelectDatacentre";
             this.SelectDatacentre.Size = new System.Drawing.Size(318, 21);
@@ -141,9 +129,9 @@
             this.MinimizeBox = false;
             this.Name = "MainForm";
             this.Text = "MainForm";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion

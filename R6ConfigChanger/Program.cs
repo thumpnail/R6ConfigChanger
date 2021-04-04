@@ -63,7 +63,7 @@ namespace R6ConfigChanger {
 
             for (int i = 0; i < UID_Amount; i++) {
                 tmp = PATH_UID[i].Split(Path.DirectorySeparatorChar);
-                UIDs[i] = tmp[5];
+                UIDs[i] = tmp[tmp.Length-1];
                 Console.WriteLine("UserID " + (i + 1) + ": " + UIDs[i]);
             }
         }

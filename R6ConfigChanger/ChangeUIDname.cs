@@ -25,5 +25,9 @@ namespace R6ConfigChanger {
                 IniFile.WriteString(SelectAccount.Text, "CustomName", CustomName.Text);
             }
         }
+
+        private void ChangeUIDname_Load(object sender, EventArgs e) {
+            
+        }
     }
 }

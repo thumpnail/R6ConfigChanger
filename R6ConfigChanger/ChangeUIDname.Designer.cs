@@ -110,9 +110,9 @@
             this.MinimizeBox = false;
             this.Name = "ChangeUIDname";
             this.Text = "ChangeUIDname";
+            this.Load += new System.EventHandler(this.ChangeUIDname_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion

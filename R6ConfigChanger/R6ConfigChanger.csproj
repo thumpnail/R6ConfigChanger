@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ini.Net">
-      <HintPath>..\ext\Ini.Net.dll</HintPath>
+    <Reference Include="Ini.Net, Version=1.0.5531.18665, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\ini.net.1.1.0\lib\net20\Ini.Net.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -66,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ChangeUIDname.resx">
